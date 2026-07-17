@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Ingeniero Civil Industrial | Knime | Power BI | Looker Studio | Oracle PL/SQL | SQL Server | Python
 
 
